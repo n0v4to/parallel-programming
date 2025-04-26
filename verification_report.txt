@@ -1,0 +1,12 @@
+Verification report:
+==================================================
+Multiplication 100x100 - OK
+Multiplication 200x200 - OK
+Multiplication 300x300 - OK
+Multiplication 400x400 - OK
+Multiplication 500x500 - OK
+Multiplication 1000x1000 - OK
+Multiplication 1500x1500 - OK
+Multiplication 2000x2000 - OK
+
+Verification completed.
