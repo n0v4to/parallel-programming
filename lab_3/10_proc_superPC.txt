@@ -1,0 +1,7 @@
+Running matrix multiplication benchmark on 10 processes
+Size	Total Time(s)
+100	0.00153899
+200	0.00759506
+500	0.0972438
+1000	0.741649
+2000	5.23664
